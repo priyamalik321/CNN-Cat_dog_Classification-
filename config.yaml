@@ -1,0 +1,5 @@
+data_paths:
+  x_train: "input.csv"
+  y_train: "labels.csv"
+  x_test: "input_test.csv"
+  y_test: "labels_test.csv"
